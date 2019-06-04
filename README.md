@@ -24,3 +24,4 @@ Play with this example using [Glitch](https://glitch.com/) by clicking the follo
 
 Check out the [official Apollo Server documentation](https://www.apollographql.com/docs/apollo-server/v2/) for more information.
 # server
+# default-server
